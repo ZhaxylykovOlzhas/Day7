@@ -1,0 +1,7 @@
+C:\Users\ЖаксылыковО\source\repos\ArrayOverload\ArrayOverload\obj\Debug\ArrayOverload.csprojAssemblyReference.cache
+C:\Users\ЖаксылыковО\source\repos\ArrayOverload\ArrayOverload\obj\Debug\ArrayOverload.csproj.CoreCompileInputs.cache
+C:\Users\ЖаксылыковО\source\repos\ArrayOverload\ArrayOverload\bin\Debug\ArrayOverload.exe.config
+C:\Users\ЖаксылыковО\source\repos\ArrayOverload\ArrayOverload\bin\Debug\ArrayOverload.exe
+C:\Users\ЖаксылыковО\source\repos\ArrayOverload\ArrayOverload\bin\Debug\ArrayOverload.pdb
+C:\Users\ЖаксылыковО\source\repos\ArrayOverload\ArrayOverload\obj\Debug\ArrayOverload.exe
+C:\Users\ЖаксылыковО\source\repos\ArrayOverload\ArrayOverload\obj\Debug\ArrayOverload.pdb
