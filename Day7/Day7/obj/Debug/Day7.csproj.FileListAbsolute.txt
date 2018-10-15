@@ -1,0 +1,7 @@
+C:\Users\ЖаксылыковО\source\repos\Day7\Day7\obj\Debug\Day7.csprojAssemblyReference.cache
+C:\Users\ЖаксылыковО\source\repos\Day7\Day7\obj\Debug\Day7.csproj.CoreCompileInputs.cache
+C:\Users\ЖаксылыковО\source\repos\Day7\Day7\bin\Debug\Day7.exe.config
+C:\Users\ЖаксылыковО\source\repos\Day7\Day7\bin\Debug\Day7.exe
+C:\Users\ЖаксылыковО\source\repos\Day7\Day7\bin\Debug\Day7.pdb
+C:\Users\ЖаксылыковО\source\repos\Day7\Day7\obj\Debug\Day7.exe
+C:\Users\ЖаксылыковО\source\repos\Day7\Day7\obj\Debug\Day7.pdb
